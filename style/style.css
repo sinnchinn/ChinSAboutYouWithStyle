@@ -1,0 +1,46 @@
+body {
+    background-image: url(./assets/background.jpg);
+    width: 90%;
+    max-width: 2000px;
+    margin: 2em auto;
+
+}
+
+h1 {
+    color: rgb(14, 51, 14);
+    font-family: garamond;
+    font-size: 70px;
+    text-transform: lowercase;
+    font-weight: bold;
+}
+
+h2 {
+    color: rgb(14, 51, 14);
+    font-family: garamond;
+    font-size: 30px;
+    text-transform: lowercase;
+    font-weight: bold;
+}
+
+.centerMe {
+    text-align: center;
+}
+
+.font {
+    color: rgb(14, 51, 14);
+    font-family: garamond;
+    font-weight: bolder;
+}
+
+.container {
+    column-width: 700px;
+    column-gap: 20px;
+}
+
+.card {
+    border: 2px solid rgb(14, 51, 14);
+    padding: 10px;
+    margin: 0 0 1em 0;
+}
+
+
